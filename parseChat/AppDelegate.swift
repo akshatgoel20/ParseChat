@@ -1,4 +1,4 @@
-zimport UIKit
+import UIKit
 import Parse
 
 @UIApplicationMain
